@@ -1,0 +1,2 @@
+Postman + Newman + Jenkins 实现接口自动化测试
+https://blog.csdn.net/duzilonglove/article/details/78645467
